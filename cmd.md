@@ -24,3 +24,12 @@ cd/Users/Name/FolderName
 ```sh
 mkdi NewFolder
 ```
+## Удалить файл 
+Windows 
+```sh
+del FileName 
+
+Linux, MacOs
+```sh
+rm FileName
+```
