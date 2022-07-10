@@ -20,4 +20,7 @@ Linux, MacOs
 cd/Users/Name/FolderName
 ```
 
-
+## Создать директорию
+```sh
+mkdi NewFolder
+```
