@@ -6,4 +6,4 @@
 * git commit -a -m "comment" Игнорирование индексации
 * git commit -m - Команда  
 * git diff - Команда  
-
+* git commit --amend Изменение последнего коммита
