@@ -7,3 +7,4 @@
 * git commit -m - Команда  
 * git diff - Команда  
 * git commit --amend Изменение последнего коммита
+* git clone <remote> Клонирование удаленного репозитория
